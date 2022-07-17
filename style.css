@@ -1,0 +1,42 @@
+
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    
+
+
+    body{
+        background-color: hsl(212, 45%, 89%);
+    
+    }
+    .content{
+        justify-content: center;
+        display: grid;
+        align-self:center;
+        font-family:sans-serif;
+    }
+    .card{
+        align-self: center;
+        border:solid white;
+        width:245px;
+        background-color: white;
+        border-radius: 10px;
+        text-align:center;
+        font-family:sans-serif;
+        padding: 10px;
+        margin-top:50%;
+        margin-bottom: 30px;
+    }
+    .card img{
+        width:245px;
+        border-radius: 10px;
+        
+    }
+    .card h3{
+        color: hsl(218, 44%, 22%);
+        font-family:outfit;
+    }
+    .card p{
+        font-size:15px;
+        color:hsl(220, 15%, 55%);
+        font-family: outfit;
+    }
